@@ -2,13 +2,16 @@
 
 ## Coursera
 
-ML with Andrew Ng
+Machine Learning Fundamentals - Andrew Ng  
 
 ## Udemy
 
-Deep Learning A-Z
+Deep Learning A-Z - Kirill Eremenko, Hadelin de Ponteves, SuperDataScience Team  
+LLM Engineering: Master AI, Large Language Models & Agents - Ed Donner    
 
 ## DeepLearning.ai
+
+## MIT OCW
 
 ## Google Qwiklabs
 
@@ -37,9 +40,9 @@ Attention Mechanism:
 https://www.cloudskillsboost.google/public_profiles/f358fadb-44ec-4c1f-9cda-7fa9893b6413/badges/3806626
 
 Intro to Gen AI:
-https://www.cloudskillsboost.google/public_profiles/f358fadb-44ec-4c1f-9cda-7fa9893b6413/badges/3806626
+https://www.cloudskillsboost.google/public_profiles/f358fadb-44ec-4c1f-9cda-7fa9893b6413/badges/3806626  
 
--- Work--
+-- Work--  
 Computer Vision Fundamentals:
 https://www.cloudskillsboost.google/public_profiles/c28d68fc-2765-49e6-a946-c22c4ae4d50e/badges/4531408
 
